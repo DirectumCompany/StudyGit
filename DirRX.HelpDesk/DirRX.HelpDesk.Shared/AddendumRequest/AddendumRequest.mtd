@@ -31,15 +31,6 @@
       "Overridden": [
         "EntityGuid"
       ]
-    },
-    {
-      "$type": "Sungero.Metadata.NavigationPropertyMetadata, Sungero.Metadata",
-      "NameGuid": "f6ab2892-14a6-4228-9ee5-f9c048e158fd",
-      "Name": "Employee",
-      "Code": "Employee",
-      "EntityGuid": "b7905516-2be5-4931-961c-cb38d5677565",
-      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
-      "PreviousPropertyGuid": "56cbe741-880f-4e6f-9567-343d08494b59"
     }
   ],
   "PublicStructures": [],
