@@ -6,7 +6,7 @@ using Sungero.CoreEntities;
 
 namespace DirRX.HelpDesk.Shared
 {
-  public class ModuleFunctions
+  public partial class ModuleFunctions
   {
 
   }
