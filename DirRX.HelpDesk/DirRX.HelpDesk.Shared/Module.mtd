@@ -38,7 +38,6 @@
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
     }
   ],
-  "IconResourcesKeys": [],
   "Importance": "Medium",
   "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
   "InterfaceNamespace": "DirRX.HelpDesk",
@@ -52,7 +51,6 @@
   "PublicStructures": [],
   "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
   "ResourceInterfaceNamespace": "DirRX.HelpDesk",
-  "ResourcesKeys": [],
   "ServerAssemblyName": "DirRX.HelpDesk.Server",
   "ServerNamespace": "DirRX.HelpDesk.Server",
   "SharedAssemblyName": "DirRX.HelpDesk.Shared",
@@ -63,7 +61,7 @@
   "Versions": [
     {
       "Type": "ModuleMetadata",
-      "Number": 9
+      "Number": 11
     },
     {
       "Type": "DomainApi",

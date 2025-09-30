@@ -6,7 +6,7 @@ using Sungero.CoreEntities;
 
 namespace DirRX.HelpDesk.Server
 {
-  public class ModuleAsyncHandlers
+  public partial class ModuleAsyncHandlers
   {
 
   }
