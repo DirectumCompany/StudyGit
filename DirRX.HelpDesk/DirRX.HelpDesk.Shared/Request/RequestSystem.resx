@@ -79,4 +79,7 @@
   <data name="Property_CreatedDate" xml:space="preserve">
     <value>Date created</value>
   </data>
+  <data name="Property_Responsible" xml:space="preserve">
+    <value>Responsible</value>
+  </data>
 </root>
